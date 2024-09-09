@@ -1,6 +1,6 @@
 # 🎬 Jinnxx Trailer Website
 
-![Jinnxx Trailer](asset/Screenshot(69).png)
+![Jinnxx Trailer](asset/banner.png)
 
 Welcome to the **Jinnxx Trailer Website**! This is a simple and stylish web application where you can showcase your favorite movie trailers. The website is built using **HTML**, **CSS**, and **JavaScript**.
 
